@@ -1,0 +1,7 @@
+{
+  "name": "CTIonicReactCapacitorExample",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
